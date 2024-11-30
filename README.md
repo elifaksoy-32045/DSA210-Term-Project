@@ -43,7 +43,7 @@ The analysis will proceed through the following stages:
 -  Manually logged gym session details, including date, time, workout type, intensity, and energy levels, saved as .csv.
 ### Data Cleaning:
 -  Removing incomplete or inconsistent records.
--  Standardizing timestamps to align music playback with gym sessions.
+-  Alligning the timeline of music playback with my gym workout routine.
 -  Filtering out non-relevant data (e.g., music played outside workout times).
 ### Exploratory Data Analysis (EDA):
 -  Visualizing trends in music features (e.g., energy, tempo, pop) during workouts.
