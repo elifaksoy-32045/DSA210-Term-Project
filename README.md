@@ -28,9 +28,9 @@ The gym-related data will be manually logged and will include:
 This manually collected data will serve as a key part of the analysis, providing insights into workout patterns and their relationship to music preferences.
 
 ## Research Questions
-1.  What are the most common audio features (e.g., energy, tempo, pop) of the music I listen to during gym sessions?
-2.  Are there specific times of the day (morning vs. evening) where my music preferences change during workouts?
-3.  How consistent are my music choices during workouts compared to non-workout listening?
+**Main Research Question:** What are the most common music genre (e.g., pop, house, rap) of the music I listen to during gym sessions?
+-  Are there specific times of the day (morning vs. evening) where my music preferences change during workouts?
+-  How consistent are my music choices during workouts compared to non-workout listening?
 
 ## Data Analysis
 The analysis will proceed through the following stages:
